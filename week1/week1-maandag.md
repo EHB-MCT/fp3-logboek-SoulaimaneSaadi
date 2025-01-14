@@ -17,6 +17,7 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 - Het voorbereiden van de elevetor pitch
 - Sketchen met Rina in verband met het wireframe
 - Wireframe bekijken en helpen met vragen
+- Moodboard + persona is afmaken
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
