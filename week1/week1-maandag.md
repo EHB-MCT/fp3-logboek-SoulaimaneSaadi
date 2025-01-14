@@ -14,10 +14,11 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 - Mijn 2 persona's creeren
 - Feedback geven over de moodbaord van Hamza
 - Het brainstormen (met de team) voor de toekomstige features van de website "Sorrybox"
-- Het voorbereiden van de elevetor pitch
+- Het voorbereiden van de elevator pitch
 - Sketchen met Rina in verband met het wireframe
 - Wireframe bekijken en helpen met vragen
 - Moodboard + persona is afmaken
+- Scrumboard wijzigen als een taak klaar is
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
