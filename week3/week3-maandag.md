@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[21/01/2025]`  
+**Datum:** `[27/01/2025]`  
 **Studentnaam:** `[Soulaimane Saadi]`  
 **Groepsnaam:** `[Chill]`
 
